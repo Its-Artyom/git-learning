@@ -1,0 +1,1 @@
+The text files were added and made in Git Bash
